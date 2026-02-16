@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/why-every-crypto",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a why-every-crypto",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/why-every-crypto.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/every-crypto-founder-uae/"
+    },
+    "homepage": "https://bitcu.co/en/every-crypto-founder-uae/"
+}
